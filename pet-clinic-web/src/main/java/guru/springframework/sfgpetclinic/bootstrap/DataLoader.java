@@ -19,12 +19,10 @@ public class DataLoader implements CommandLineRunner{
     private final VetService vetService;
     private final PetService petService;
 
-    
-
-    public DataLoader() {
-        ownerService = new OwnerServiceMap();
-        vetService = new VetServiceMap();
-        petService = new PetServiceMap();
+    public DataLoader(OwnerService ownerService, VetService vetService, PetService petService) {
+        this.ownerService = ownerService;
+        this.vetService = vetService;
+        this.petService = petService;
     }
 
 
