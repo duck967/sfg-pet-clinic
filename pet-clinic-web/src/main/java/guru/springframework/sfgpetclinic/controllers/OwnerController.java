@@ -23,4 +23,9 @@ private final OwnerService ownerService;
 
         return "owners/index";
     }
+
+    @RequestMapping("/find")
+    public String findOwners() {
+        return "owners/notimplemented";
+    }
 }
