@@ -1,3 +1,5 @@
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VisitService.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/springdatajpa/VisitSDJpaService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/OwnerServiceMap.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/VetService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Person.java
@@ -19,9 +21,14 @@
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VetServiceMap.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/repositories/SpecialtyRepository.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Pet.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/springdatajpa/PetTypeSDJpaService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Vet.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/springdatajpa/VetSDJpaService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/repositories/OwnerRepository.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/springdatajpa/PetSDJpaService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetTypeService.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/map/VisitMapService.java
+/home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/springdatajpa/SpecialtySDJpaService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/model/Owner.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/services/PetService.java
 /home/ubuntu/projects/course2/sfg-pet-clinic/pet-clinic-data/src/main/java/guru/springframework/sfgpetclinic/repositories/PetRepository.java
